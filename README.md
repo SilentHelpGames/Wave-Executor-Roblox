@@ -3,7 +3,7 @@
 
 **Free, Open-Source Executor for Roblox.**
 
-Wave is a fast, lightweight stealer written in C#.
+Wave is a fast, lightweight executor written in C#.
 
 **Note: We are actively developing less detections.**
 
