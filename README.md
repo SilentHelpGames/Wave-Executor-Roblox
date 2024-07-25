@@ -1,5 +1,5 @@
 # Wave Executor
-![GitHub](https://img.shields.io/github/license/HelpingInGames/Wave-Executor-Roblox)
+![GitHub](https://img.shields.io/github/license/SilentHelpGames/Wave-Executor-Roblox)
 
 **Free, Open-Source Executor for Roblox.**
 
@@ -8,7 +8,7 @@ Wave is a fast, lightweight stealer written in C#.
 **Note: We are actively developing less detections.**
 
 ## Disclaimer
-This program, developed by HelpingInGames, is intended solely for educational purposes, to demonstrate the vulnerabilities of computer systems and to promote awareness of executors. The program should only be used in controlled environments with explicit permission from the system owner.
+This program, developed by SilentHelpGames, is intended solely for educational purposes, to demonstrate the vulnerabilities of computer systems and to promote awareness of executors. The program should only be used in controlled environments with explicit permission from the system owner.
 
 While the program may be used to assess the security of roblox executor, it should not be used for malicious purposes or any activity that may cause harm or damage to computer systems or networks. Any misuse or illegal activity resulting from the use of this program is strictly prohibited and the responsibility lies solely with the user.
 
